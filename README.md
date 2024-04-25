@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working onself
+- 🔭 I'm studying <a href="https://42.uz/course/express-backend">42 Algorithms & Express Backend</a>
 - 🌱 I’m currently learning <a href="https://www.youtube.com/playlist?list=PLcvajZ_CZX8RygFD05lSHujpk2gLcBQaO">UDT</a>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
