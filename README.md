@@ -1,5 +1,5 @@
-### Hi there I'am Dream Chaser<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science enthusiast</h3>
+### Hi there I'am Dream Chaser<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h1 align="center">Computer science enthusiast</h2>
 <!--
 **Surf884/Surf884** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
