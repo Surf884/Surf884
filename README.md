@@ -1,8 +1,4 @@
-![2fK7ozq-ezgif com-optimize](https://github.com/Surf884/Surf884/assets/78377733/9be0b2e9-6a77-4ef0-83f2-77c288700a66)
-
-
 <h1 align="center">Hi there, I'm Dream Chaser</a>
-
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science enthusiast, simple geek from space</h3>
 
