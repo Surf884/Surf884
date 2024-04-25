@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi there, I'm Dream Chaser!
-[cat](https://github.com/Surf884/Surf884/assets/78377733/6e3c344d-c7e8-4c63-9cb1-02ec734eaa35)
 <h3 align="center">Computer science enthusiast, simple geek from space</h3>
 
 Here are some ideas to get you started:
