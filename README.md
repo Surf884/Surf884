@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Dream Chaser</a>
-<img src="https://github.com/Surf884/Surf884/blob/main/gopher-shaking(1).gif" height="32"/></h1>
+<img src="https://github.com/Surf884/Surf884/blob/main/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science enthusiast, simple geek from space</h3>
 
 Here are some ideas to get you started:
