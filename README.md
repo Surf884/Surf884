@@ -1,7 +1,7 @@
 Computer science enthusiast, simple geek from space<
 
 <h1 align="center">Hi there, I'm Dream Chaser
-<img src="https://github.com/Surf884/Surf884/blob/main/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science enthusiast, simple geek from space</h3>
 
 Here are some ideas to get you started:
