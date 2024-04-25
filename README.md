@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Dream Chaser</a>
+<h1 align="center">Hi there, I'm Dream Chaser
 <img src="https://github.com/Surf884/Surf884/blob/main/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science enthusiast, simple geek from space</h3>
 
