@@ -1,4 +1,7 @@
 
+
+![cat](https://github.com/Surf884/Surf884/assets/78377733/5c49db90-58d6-4098-8a7e-7f9e3617bbb5)
+
 <h1 align="center">Hi there, I'm Dream Chaser!
 <h3 align="center">Computer science enthusiast, simple geek from space</h3>
 
