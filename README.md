@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="200" src="https://github.com/Surf884/Surf884/blob/main/LoL.gif">
+  <src="https://github.com/Surf884/Surf884/blob/main/LoL.gif">
 </p>
 
 <h1 align="center">Hi there, I'm Dream Chaser
