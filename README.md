@@ -1,4 +1,6 @@
-Computer science enthusiast, simple geek from space<
+<p align="center">
+  <img width="400" height="200" src="https://github.com/Surf884/Surf884/blob/main/LoL.gif">
+</p>
 
 <h1 align="center">Hi there, I'm Dream Chaser
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
