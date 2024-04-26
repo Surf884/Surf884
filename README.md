@@ -1,6 +1,4 @@
 
-
-
 <h1 align="center">Hi there, I'm Dream Chaser!
 <h3 align="center">Computer science enthusiast, simple geek from space</h3>
 
