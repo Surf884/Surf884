@@ -1,5 +1,7 @@
 <p align="center">
+  
   <img width="460" height="300" src="https://i.gifer.com/mx.gif">
+  
 </p>
 <h1 align="center">Hi there, I'm Dream Chaser!
 <h3 align="center">Computer science enthusiast, simple geek from space</h3>
