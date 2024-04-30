@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.gifer.com/mx.gif"  />
-</div>
 <h1 align="center">Hi there, I'm Dream Chaser!
 <h3 align="center">Computer science enthusiast, simple geek from space</h3>
 
