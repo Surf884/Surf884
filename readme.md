@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## These techs I'm feeding study, but not exactly!  
 <table><tr><td valign="top" width="33%">
 
 
