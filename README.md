@@ -1,4 +1,8 @@
+<p align="center">
 
+  <img width="460" height="300" src="[https://github.com/Surf884/Surf884/blob/main/2fK7ozq.gif">
+
+</p>
 <h1 align="center">Hi there, I'm Dream Chaser!
 <h3 align="center">Computer science enthusiast, simple geek from space</h3>
 
