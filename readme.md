@@ -93,4 +93,4 @@
 <br />
 
 ----
-<div align="center">All rights not reserved and you can do whatever you want. <a href="box@surf884.us">my mail</a></div>
+<div align="center">All rights not reserved and you can do whatever you want. box@surf884.us
