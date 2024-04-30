@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img width="460" height="300" src="[https://github.com/Surf884/Surf884/blob/main/2fK7ozq.gif">
+  <img width="460" height="300" src="[https://i.gifer.com/mx.gif]">
 
 </p>
 <h1 align="center">Hi there, I'm Dream Chaser!
