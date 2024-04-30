@@ -93,4 +93,4 @@
 <br />
 
 ----
-<div align="center">Все права не защищены, и вы можете делать все, что захотите. <a href="box@surf884.us" target="_blank">Github Profilinator</a></div>
+<div align="center">All rights not reserved and you can do whatever you want.<a href="box@surf884.us" target="_blank">my mail</a></div>
