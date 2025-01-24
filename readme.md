@@ -13,6 +13,3 @@
   
 
 - ❓ Ask me about anything related to networks, nix, hardware, and related tech ⚡
-
-<br/>  
-<br />
