@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👋 HI! I'm Dream Surfer - tech enthusiast  🚀🪐</div>  
+### <div align="center">👋 HI! I'm Blastich - tech enthusiast  🚀🪐</div>  
   
 
 - 🥽 I’m learning [42.UZ](https://42.uz/course/express-backend) & [SOZYKIN](https://www.asozykin.ru/#rec111563767)  
