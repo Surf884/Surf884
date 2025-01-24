@@ -3,20 +3,16 @@
 </div>  
   
 
-### <div align="center">👋 HI! I'm Dream Surfer, tech enthusiast and dream surfer developer 🚀 Just a programming enthusiast since 2012🪐</div>  
+### <div align="center">👋 HI! I'm Dream Surfer - tech enthusiast  🚀🪐</div>  
   
 
 - 🥽 I’m learning [42.UZ](https://42.uz/course/express-backend) & [SOZYKIN](https://www.asozykin.ru/#rec111563767)  
   
 
-- 🥽 I’m currently learning C and Rust + Golang  
+- 🥽 me & cat love  C + Rust + Go  
   
 
-- ❓ Ask me about anything related to networks, nix, hardware, and related tech.  
-  
-
-- ⚡ Fun fact: Chrome OS fit for developers  
-  
+- ❓ Ask me about anything related to networks, nix, hardware, and related tech ⚡
 
 <br/>  
 
